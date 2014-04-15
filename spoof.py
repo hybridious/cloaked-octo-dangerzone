@@ -2,7 +2,7 @@ import random
 import zipfile
 
 """
-My poor attempt @ porting a msf exploit to python.
+My poor attempt @ porting a msf exploit to python. - http://www.exploit-db.com/exploits/32752/
 
 Run with:
     python spoof.py file_to_spoof new_spoofed_filename
