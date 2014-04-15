@@ -9,7 +9,7 @@ Run with:
     python spoof.py file_to_spoof new_spoofed_filename
 """
 file = sys.argv[0]
-new_file = sys.argv[1]
+newfile = sys.argv[1]
 
 def spoof_file(file, newfile):
     new_filename = ''.join(random.choice('0123456789abcdefghijklmnopqurstuvwxyz') for i in range(16)) + ".exe"
