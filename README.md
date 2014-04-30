@@ -1,4 +1,4 @@
 cloaked-octo-dangerzone
 =======================
 
-Non-working msf module to python port.
+poc - msf module to python port.
